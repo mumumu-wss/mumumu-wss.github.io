@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sensen Wang"
-  pronouns         : He/His"  
+  pronouns         : # "He/His"  
   bio              : "I'm a third year graduate student from [School of XMUT](https://www.xmut.edu.cn/)."
-  location         : "XMUT"
+  location         : # "XMUT"
   employer         : "the School of Computer and Information Engineering, Xiamen University of Technology, China."
   uri              : # URL
   email            : "wss.cv.chn@outlook.com" 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-6616-5892"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
