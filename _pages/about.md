@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [School of XMUT](https://www.xmut.edu.cn/). My research interest includes computer vision, deep learning, and human face.
+Sensen Wang received the B.S. degree from Quanzhou Normal University, China, in 2022, where he is currently pursuing the master’s degree with the School of Computer and Information Engineering, Xiamen University of Technology, China. His current research interests include facial representation learning and deep learning.
