@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sensen Wang"
-  pronouns         : # "He/His"  
+  pronouns         : "He/His"  
   bio              : "I'm a third year graduate student from [School of XMUT](https://www.xmut.edu.cn/)."
-  location         : # "XMUT"
-  employer         : "the School of Computer and Information Engineering, Xiamen University of Technology, China."
+  location         : "China"
+  employer         : "Xiamen University of Technology, China."
   uri              : # URL
   email            : "wss.cv.chn@outlook.com" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/mumumu-wss"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
