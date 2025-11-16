@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sensen Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : He/His"  
+  bio              : "I'm a third year graduate student from [School of XMUT](https://www.xmut.edu.cn/)."
+  location         : "XMUT"
+  employer         : "the School of Computer and Information Engineering, Xiamen University of Technology, China."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wss.cv.chn@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-6616-5892"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
